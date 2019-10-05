@@ -9,5 +9,5 @@ around detected animals and identifies species of the animals.
 Initial observations show that the part model of identification the species works well,
 however, detecting part of model that draws boxes has some room for improvements: in
 many cases it fails to detect animals.
-Tthe work on describing statistics of the model is not completed. This is some work
+The work on describing statistics of the model is not completed. This is some work
 for the future.
